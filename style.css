@@ -1,0 +1,38 @@
+nav a{
+    color: crimson;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.about blockquote{
+    background: #eaeaea;
+}
+.users span{
+    font-weight: bold;
+}
+
+section.users span:nth-child(2){
+    color: crimson;
+}
+
+.creators .link.font{
+    font-family: "Lato";
+}
+
+.creators .link{
+    font-family: "PT Serif";
+    text-decoration: none;
+    color: crimson;
+}
+
+.cta h2{
+    color: crimson;
+    font-family: "Lato";
+}
+ul li:nth-child(odd){
+    color: crimson;
+    font-family: "Lato";
+    text-decoration: underline;
+}
+
+
